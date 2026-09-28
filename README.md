@@ -38,7 +38,7 @@ Validate the core functionality of the game, including:
 
 ## 📊 Results
 
-- **700+ test cases** written and organized by module (Movement, Collisions, Pills, Highscore, Debug info)
+- **40 test cases** written and organized by module (Movement, Collisions, Pills, Highscore, Debug info)
 - **13 bugs** logged with severity, priority, reproduction steps, expected vs. actual result
 - Of those, **10 bugs were fixed and re-verified** in the regression cycle (Build vFINAL); 3 remained open at the end of the cycle
 - Full regression suite re-executed on vFINAL to confirm fixes didn't break existing functionality
