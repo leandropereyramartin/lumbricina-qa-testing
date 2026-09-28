@@ -16,6 +16,8 @@ All three contributed to writing and executing test cases across modules. My foc
 
 ## 🎯 Testing Objective
 
+🎮 **Play the game:** [v1](https://nahual.github.io/qc-lumbricina/?v=1) | [vFINAL](https://nahual.github.io/qc-lumbricina/)
+
 Validate the core functionality of the game, including:
 - Snake movement in response to arrow keys (with reversed controls under one power-up effect)
 - Power-up ("pill") spawn behavior and effects
