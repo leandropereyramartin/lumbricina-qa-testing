@@ -16,4 +16,4 @@
 | HSBUG-1 | TC-HS-02 | Only 3 highscores shown instead of 5 | Closed (fixed) | Game ended, multiple scores recorded | Medium | Medium | Play several rounds and record scores | Top 5 scores shown | Only 3 shown in v1; fixed in vFINAL (now shows 5) |
 | HSBUG-2 | TC-HS-03 | Name field accepts more than 30 characters | Open | End of game | Medium | Medium | Enter a name longer than 30 characters and confirm | Input limited to 30 characters, per spec | Accepts more than 30 characters in both v1 and vFINAL — fix pending |
 
-**Summary:** 13 bugs logged — 10 fixed and verified via regression testing on Build vFINAL, 3 remain open (low-severity spawn issue, pause/resume feature missing, and name field length not enforced).
+**Summary:** 13 bugs logged — 8 fixed and verified via regression testing on Build vFINAL, 5 remain open (a low-severity pill spawn issue, a scoring bug on the green pill, a missing pause/resume feature, and the name field not enforcing its 30-character limit).
